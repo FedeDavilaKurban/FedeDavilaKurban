@@ -2,7 +2,7 @@
 
 **PhD Astrophysicist (LSS/Cosmology) | Data Scientist**
 
-I work on large-scale structure and cosmology — analyzing galaxy surveys and N-body simulations to extract statistical signals from massive, messy datasets. That means my day-to-day is: wrangling terabyte-scale simulation outputs, building statistical pipelines, and turning noisy data into robust, publishable results.
+I work on large-scale structure and cosmology — analyzing galaxy surveys and N-body simulations to extract statistical signals from massive, messy datasets. That means my day-to-day is: engaging with terabyte-scale simulation outputs, building statistical pipelines, and turning noisy data into robust, publishable results.
 
 I'm open to applying that same toolkit outside astronomy — clustering algorithms, spatial statistics, and simulation-based inference translate directly to data science problems.
 
