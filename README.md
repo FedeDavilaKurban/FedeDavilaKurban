@@ -1,6 +1,6 @@
 # Federico Dávila Kurbán
 
-**Astrophysicist (Postdoc, LSS/Cosmology) | Data Scientist**
+**PhD Astrophysicist (LSS/Cosmology) | Data Scientist**
 
 I work on large-scale structure and cosmology — analyzing galaxy surveys and N-body simulations to extract statistical signals from massive, messy datasets. That means my day-to-day is: wrangling terabyte-scale simulation outputs, building statistical pipelines, and turning noisy data into robust, publishable results.
 
